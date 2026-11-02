@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Official Grok Bot docs
+    url: https://docs.x.ai/grok-bot/overview
+    about: Product support belongs with official docs, not this community list.

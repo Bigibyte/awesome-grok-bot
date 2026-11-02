@@ -1,0 +1,30 @@
+name: Correction
+description: Fix a wrong, outdated, or broken claim/link
+title: "[Correction] "
+labels: ["correction"]
+body:
+  - type: input
+    id: where
+    attributes:
+      label: File or section
+      placeholder: docs/limits.md or README comparisons
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong
+    validations:
+      required: true
+  - type: textarea
+    id: fix
+    attributes:
+      label: Suggested fix
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source URL that proves the fix
+    validations:
+      required: true

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: Awesome Grok Bot
+message: If you use this community guide, please cite it as below.
+type: software
+authors:
+  - family-names: Kawsar
+    given-names: MD
+    alias: bigibyte
+repository-code: https://github.com/bigibyte/awesome-grok-bot
+url: https://github.com/bigibyte/awesome-grok-bot
+abstract: Beginner-friendly awesome list and guides for Grok Bot with verified links.
+license: CC0-1.0
+keywords:
+  - grok-bot
+  - awesome-list
+  - ai-agents
+  - xai
+  - cursor
