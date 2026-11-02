@@ -5,7 +5,7 @@
 > If this guide helps you, please give it a [star](https://github.com/bigibyte/awesome-grok-bot) so more people can find it.
 
 <p align="center">
-  <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-sec-routines.png" alt="Workflows" width="100%">
+  <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-sec-routines.png" alt="Workflows" width="100%">
 </p>
 
 ## Quick pick

@@ -3,7 +3,7 @@
 <a id="awesome-grok-bot"></a>
 
 <p align="center">
-  <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-cover.png" alt="Awesome Grok Bot beginner guide" width="100%">
+  <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-cover.png" alt="Awesome Grok Bot beginner guide" width="100%">
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@ Your account gets a **persistent cloud computer** with a browser, files, and a t
 **Platforms:** macOS, Windows, Linux, iPhone, Android. Sources: [overview](https://docs.x.ai/grok-bot/overview), [FAQ](https://docs.x.ai/grok-bot/faq), [product](https://x.ai/bot).
 
 <p align="center">
-  <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-sec-getting-started.png" alt="Getting started" width="100%">
+  <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-sec-getting-started.png" alt="Getting started" width="100%">
 </p>
 
 <details>
@@ -211,7 +211,7 @@ Summarize the attached doc in 5 bullets, list dates and open questions, do not c
 ## Full capabilities
 
 <p align="center">
-  <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-sec-capabilities.png" alt="Capabilities" width="100%">
+  <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-sec-capabilities.png" alt="Capabilities" width="100%">
 </p>
 
 See [docs/capabilities.md](docs/capabilities.md) and [docs/feature-examples.md](docs/feature-examples.md) for the full map with sources (Bots, computer, Connect apps, skills, Teach a task, routines, Pages/Library, agent email, voice, group chats, Vault, Auto Review, Cloud Agents, settings).
@@ -263,7 +263,7 @@ Copy-ready roles (Research, Inbox, Ops, Sales Prep, Calendar EA, Bot Boss): [doc
 ## Use case ideas by role
 
 <p align="center">
-  <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-sec-usecases.png" alt="Use cases" width="100%">
+  <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-sec-usecases.png" alt="Use cases" width="100%">
 </p>
 
 Official starters: [use cases](https://docs.x.ai/grok-bot/use-cases). Recipes: [docs/use-case-recipes.md](docs/use-case-recipes.md).
@@ -289,15 +289,15 @@ Official starters: [use cases](https://docs.x.ai/grok-bot/use-cases). Recipes: [
 
 | Card | Resource |
 |------|----------|
-| <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-card-xai-bot.png" width="160" alt=""> | [Product page](https://x.ai/bot) |
-| <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-card-introducing.png" width="160" alt=""> | [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) |
-| <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-card-docs-overview.png" width="160" alt=""> | [Docs overview](https://docs.x.ai/grok-bot/overview) |
-| <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-card-get-started.png" width="160" alt=""> | [Get started](https://docs.x.ai/grok-bot/get-started) |
-| <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-card-grok-bot-101.png" width="160" alt=""> | [Grok Bot 101](https://x.ai/bot/guides/grok-bot-101) |
-| <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-card-use-cases.png" width="160" alt=""> | [Use cases](https://docs.x.ai/grok-bot/use-cases) |
-| <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-card-pages-help.png" width="160" alt=""> | [Pages help](https://cursor.com/help/grok-bot/pages) |
-| <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-card-learn-cursor.png" width="160" alt=""> | [Learn Cursor](https://www.learncursor.dev/learn/cursor-agents/grok-bot-setup) |
-| <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-card-grokbotwiki.png" width="160" alt=""> | [Wiki plugins/MCP](https://www.grokbotwiki.com/guides/grok-bot-plugins-mcp) |
+| <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-card-xai-bot.png" width="160" alt=""> | [Product page](https://x.ai/bot) |
+| <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-card-introducing.png" width="160" alt=""> | [Introducing Grok Bot](https://x.ai/news/introducing-grok-bot) |
+| <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-card-docs-overview.png" width="160" alt=""> | [Docs overview](https://docs.x.ai/grok-bot/overview) |
+| <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-card-get-started.png" width="160" alt=""> | [Get started](https://docs.x.ai/grok-bot/get-started) |
+| <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-card-grok-bot-101.png" width="160" alt=""> | [Grok Bot 101](https://x.ai/bot/guides/grok-bot-101) |
+| <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-card-use-cases.png" width="160" alt=""> | [Use cases](https://docs.x.ai/grok-bot/use-cases) |
+| <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-card-pages-help.png" width="160" alt=""> | [Pages help](https://cursor.com/help/grok-bot/pages) |
+| <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-card-learn-cursor.png" width="160" alt=""> | [Learn Cursor](https://www.learncursor.dev/learn/cursor-agents/grok-bot-setup) |
+| <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-card-grokbotwiki.png" width="160" alt=""> | [Wiki plugins/MCP](https://www.grokbotwiki.com/guides/grok-bot-plugins-mcp) |
 
 Full list: [docs/resources.md](docs/resources.md).
 
@@ -309,8 +309,8 @@ Full list: [docs/resources.md](docs/resources.md).
 
 | Card | Resource |
 |------|----------|
-| <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-card-grokbot-run.png" width="160" alt=""> | [grokbot.run](https://grokbot.run/about/) |
-| <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-card-prompts-chat.png" width="160" alt=""> | [prompts.chat](https://prompts.chat/bots) |
+| <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-card-grokbot-run.png" width="160" alt=""> | [grokbot.run](https://grokbot.run/about/) |
+| <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-card-prompts-chat.png" width="160" alt=""> | [prompts.chat](https://prompts.chat/bots) |
 
 <p align="right"><a href="#awesome-grok-bot">Back to top</a></p>
 
@@ -319,7 +319,7 @@ Full list: [docs/resources.md](docs/resources.md).
 ## Fair comparisons
 
 <p align="center">
-  <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-sec-compare.png" alt="Comparisons" width="100%">
+  <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-sec-compare.png" alt="Comparisons" width="100%">
 </p>
 
 Short table + sources: [docs/comparisons.md](docs/comparisons.md). No invented prices.

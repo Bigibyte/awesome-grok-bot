@@ -8,7 +8,7 @@ Pages are lasting outputs: reports, dashboards, and trackers that live in your L
 
 | Card | Official help |
 |------|----------------|
-| <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-card-pages-help.png" width="140" alt=""> | [cursor.com/help/grok-bot/pages](https://cursor.com/help/grok-bot/pages) |
+| <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-card-pages-help.png" width="140" alt=""> | [cursor.com/help/grok-bot/pages](https://cursor.com/help/grok-bot/pages) |
 
 > [!NOTE]
 > Community and help notes mention Pages on desktop 0.60.0+ and phone 1.14.0+, and that Enterprise may not have Pages yet. Always check your build and plan.

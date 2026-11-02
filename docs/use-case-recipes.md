@@ -5,14 +5,14 @@
 > If this guide helps you, please give it a [star](https://github.com/bigibyte/awesome-grok-bot) so more people can find it.
 
 <p align="center">
-  <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-sec-usecases.png" alt="Use cases" width="100%">
+  <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-sec-usecases.png" alt="Use cases" width="100%">
 </p>
 
 Official starters live at [docs.x.ai use cases](https://docs.x.ai/grok-bot/use-cases). Each recipe below keeps a **stop** rule.
 
 | Card | Official |
 |------|----------|
-| <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-card-use-cases.png" width="140" alt=""> | [Use cases](https://docs.x.ai/grok-bot/use-cases) |
+| <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-card-use-cases.png" width="140" alt=""> | [Use cases](https://docs.x.ai/grok-bot/use-cases) |
 
 ## Quick pick by role
 

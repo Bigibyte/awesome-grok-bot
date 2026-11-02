@@ -21,7 +21,7 @@ Grok Bot can use an agent email address on `mail.grokbot.com`. Useful for Bots t
 
 | Card | Link |
 |------|------|
-| <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-card-grokbotwiki.png" width="140" alt=""> | [Plugins, MCP, known issues](https://www.grokbotwiki.com/guides/grok-bot-plugins-mcp) |
+| <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-card-grokbotwiki.png" width="140" alt=""> | [Plugins, MCP, known issues](https://www.grokbotwiki.com/guides/grok-bot-plugins-mcp) |
 
 > [!NOTE]
 > Treat wiki content as community research. Prefer official docs when they disagree.

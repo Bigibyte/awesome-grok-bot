@@ -5,7 +5,7 @@
 > If this guide helps you, please give it a [star](https://github.com/bigibyte/awesome-grok-bot) so more people can find it.
 
 <p align="center">
-  <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-sec-getting-started.png" alt="Getting started" width="100%">
+  <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-sec-getting-started.png" alt="Getting started" width="100%">
 </p>
 
 > [!NOTE]
@@ -59,9 +59,9 @@ Open **Connect apps** when you need Gmail, Slack, Notion, GitHub, or other plugi
 
 | Card | Link |
 |------|------|
-| <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-card-get-started.png" width="140" alt=""> | [Get started (docs.x.ai)](https://docs.x.ai/grok-bot/get-started) |
-| <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-card-get-started.png" width="140" alt=""> | [Get started (cursor.com)](https://cursor.com/docs/grok-bot/get-started) |
-| <img src="https://images.bigibyte.com/projects/bigibyte-github-awesome-grok-bot-v2-card-grok-bot-101.png" width="140" alt=""> | [Grok Bot 101](https://x.ai/bot/guides/grok-bot-101) |
+| <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-card-get-started.png" width="140" alt=""> | [Get started (docs.x.ai)](https://docs.x.ai/grok-bot/get-started) |
+| <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-card-get-started.png" width="140" alt=""> | [Get started (cursor.com)](https://cursor.com/docs/grok-bot/get-started) |
+| <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-card-grok-bot-101.png" width="140" alt=""> | [Grok Bot 101](https://x.ai/bot/guides/grok-bot-101) |
 
 ---
 
