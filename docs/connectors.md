@@ -22,6 +22,7 @@ Grok Bot can use an agent email address on `mail.grokbot.com`. Useful for Bots t
 | Card | Link |
 |------|------|
 | <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-card-grokbotwiki.png" width="140" alt=""> | [Plugins, MCP, known issues](https://www.grokbotwiki.com/guides/grok-bot-plugins-mcp) |
+| <img src="https://dchub.cloud/icons/icon-192.png" width="140" alt=""> | [DC Hub MCP](https://dchub.cloud/mcp) — live data-center and energy intelligence (Data Center Power Index across 300+ markets). Free to start. Connect guide: https://dchub.cloud/connect/grok |
 
 > [!NOTE]
 > Treat wiki content as community research. Prefer official docs when they disagree.

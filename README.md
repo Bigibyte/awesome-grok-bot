@@ -311,6 +311,7 @@ Full list: [docs/resources.md](docs/resources.md).
 |------|----------|
 | <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-card-grokbot-run.png" width="160" alt=""> | [grokbot.run](https://grokbot.run/about/) |
 | <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-card-prompts-chat.png" width="160" alt=""> | [prompts.chat](https://prompts.chat/bots) |
+| <img src="https://dchub.cloud/icons/icon-192.png" width="160" alt=""> | [DC Hub MCP](https://dchub.cloud/connect?utm_source=awesome-grok-bot&utm_medium=listing&utm_campaign=directories) (data-center and energy data for agents; free to start) |
 
 <p align="right"><a href="#awesome-grok-bot">Back to top</a></p>
 
