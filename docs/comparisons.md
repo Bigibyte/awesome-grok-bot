@@ -17,6 +17,7 @@
 | **Claude Cowork / computer use** | Controls **your** Mac/Windows desktop (research preview; Pro/Max/Ultra) | Dispatch; connectors first | Desktop awake; [article](https://claude.com/resources/articles/dispatch-and-computer-use), [docs](https://code.claude.com/docs/en/computer-use) |
 | **ChatGPT agent / Work** | Virtual browser / computer tools in ChatGPT | Agent / Work modes | Live help may steer to Work + cloud browser; [help](https://help.openai.com/en/articles/11752874-chatgpt-agent) |
 | **Manus** | Cloud computer + **Manus Studio** on desktop | Automations, Cue | [features](https://manus.im/features), [Studio](https://manus.im/docs/features/desktop) |
+| **5dive** (open source, MIT) | **Your own** Linux server; each agent runs as a Linux service | Agent teams with roles, a team lead and reviews; runs Claude Code, Codex and Grok Build side by side | [repo](https://github.com/5dive-ai/5dive) |
 
 <details>
 <summary><strong>How to choose (model, not hype)</strong></summary>
@@ -27,6 +28,7 @@
 - Drive apps already open on your laptop → Claude computer use (preview limits)
 - Deep in ChatGPT → check current Work / agent help
 - Studio + cloud build/create → Manus
+- Your own server, your own AI plans, open source → 5dive
 
 </details>
 

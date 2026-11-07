@@ -50,6 +50,7 @@ Inbox workflow posts: [botskills.sh](https://botskills.sh/blog/grok-bot-to-inbox
 | <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-card-claude-computer.png" width="140" alt=""> | [Claude Dispatch/computer use](https://claude.com/resources/articles/dispatch-and-computer-use) · [Claude Code docs](https://code.claude.com/docs/en/computer-use) |
 | <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-card-chatgpt-agent.png" width="140" alt=""> | [ChatGPT agent help](https://help.openai.com/en/articles/11752874-chatgpt-agent) |
 | <img src="https://pub-84e44a6cb4244c4c83fe8c430a1dae49.r2.dev/awesome-grok-bot-v3-card-manus.png" width="140" alt=""> | [Manus features](https://manus.im/features) · [Studio](https://manus.im/docs/features/desktop) |
+| <img src="../assets/thumbs/card-5dive.png" width="140" alt=""> | [5dive README](https://github.com/5dive-ai/5dive) |
 
 ---
 
